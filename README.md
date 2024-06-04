@@ -1,7 +1,7 @@
 # Hand-sign-detection-using-python
 Hand sign detection using the mediapipe library! The code captures video from the webcam, processes hand landmarks, and detects gestures like “LIKE” and “DISLIKE” based on finger positions.
 
-Here’s a brief overview of what your code does:
+Here’s a brief overview of what this code does:
 
 1- It initializes the mediapipe hands module and sets up the webcam capture.
 2- Defines the fingertip indices and thumb tip index.
